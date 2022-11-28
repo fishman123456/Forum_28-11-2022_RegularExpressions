@@ -1,0 +1,15 @@
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\bin\Debug\net6.0\Forum_28-11-2022_RegularExpressions.exe
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\bin\Debug\net6.0\Forum_28-11-2022_RegularExpressions.deps.json
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\bin\Debug\net6.0\Forum_28-11-2022_RegularExpressions.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\bin\Debug\net6.0\Forum_28-11-2022_RegularExpressions.dll
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\bin\Debug\net6.0\Forum_28-11-2022_RegularExpressions.pdb
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\obj\Debug\net6.0\Forum_28-11-2022_RegularExpressions.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\obj\Debug\net6.0\Forum_28-11-2022_RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\obj\Debug\net6.0\Forum_28-11-2022_RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\obj\Debug\net6.0\Forum_28-11-2022_RegularExpressions.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\obj\Debug\net6.0\Forum_28-11-2022_RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\obj\Debug\net6.0\Forum_28-11-2022_RegularExpressions.dll
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\obj\Debug\net6.0\refint\Forum_28-11-2022_RegularExpressions.dll
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\obj\Debug\net6.0\Forum_28-11-2022_RegularExpressions.pdb
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\obj\Debug\net6.0\Forum_28-11-2022_RegularExpressions.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\Forum_28-11-2022_RegularExpressions\obj\Debug\net6.0\ref\Forum_28-11-2022_RegularExpressions.dll
